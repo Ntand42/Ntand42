@@ -6,7 +6,7 @@
   - [Admin Food Donation](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Municipal Service Application](https://github.com/Ntand42/Municipal-Service-Application/blob/main/README.md)
   - [Time Tracker Application](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Food Recipe Application](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Food Recipe Application](https://github.com/Ntand42/Food-Recipe-Application/blob/main/README.md)
   - [Agri-Energy Agriculture Webapp](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>📺 YouTube Videos</h2>
