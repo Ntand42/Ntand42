@@ -1,10 +1,10 @@
-<h1>Hi, I'm Ntando! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Software Developer</a> </h1>
+<h1>Hi, I'm Ntando! <br/><a href="https://github.com/Ntand42">Programmer</a>, <a href="https://www.linkedin.com/in/ntando-msweli-ba5018251/">Software Developer</a> </h1>
 
 <h2>👨‍💻 Learning Experiential Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Admin Food Donation](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Municipal Service Application](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Municipal Service Application](https://github.com/Ntand42/Municipal-Service-Application/blob/main/README.md)
   - [Time Tracker Application](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Food Recipe Application](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Agri-Energy Agriculture Webapp](https://github.com/joshmadakor1/Algorithms-Practice)
