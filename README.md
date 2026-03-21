@@ -1,39 +1,65 @@
-<h1>Hi, I'm Ntando! <br/><a href="https://github.com/Ntand42">Programmer</a>, <a href="https://www.linkedin.com/in/ntando-msweli-ba5018251/">Software Developer</a> </h1>
+<h1>Hi, I'm Ntando 👋</h1>
+<h3>Software Developer | Full-Stack Enthusiast | Problem Solver</h3>
 
-<h2>👨‍💻 Learning Experiential Projects:</h2>
- <b>Projects</b>
- 
-  - [Admin Food Donation](https://github.com/Ntand42/Admin-Food-Donation)
-  - [Municipal Service Application](https://github.com/Ntand42/Municipal-Service-Application/blob/main/README.md)
-  - [E-Hailing Cloud Webb App](https://github.com/Ntand42/E-Hailing-Cloud-Web-Application)
-  - [Food Recipe Application](https://github.com/Ntand42/Food-Recipe-Application/blob/main/README.md)
+<p>
+I’m a software developer passionate about building real-world applications that solve practical problems.
+I enjoy working across the full stack — from designing user-friendly interfaces to building secure and scalable backend systems.
+</p>
 
+---
 
-<h2>📺 YouTube Videos</h2>
- <b>You can also watch the videos of the projects running</b>
- 
-- [Municipal Service Application](https://youtu.be/Lcv6Xp318lQ)
-- [Time Tracker Application](https://youtu.be/5zgkMvHGytQ?si=okPVhYs6_urE59uS)
-- [Agri-Energy Agriculture Webapp(C#)](https://youtu.be/aytdQZQEgMk)
-- [E-hailing Cloud Webb Application](https://youtu.be/4B2fD16EpJU)
+<h2>🚀 Featured Projects</h2>
 
-  
-<h2> 🤳 Connect with me:</h2>
-- <b> Email: ntandom2003@gmai.com </b>
+<ul>
+  <li>
+    <a href="https://github.com/Ntand42/react-kiosk-new"><b>Kiosk System (Full Stack)</b></a><br/>
+    A digital ordering system with authentication, product management, and JWT-secured API integration.
+  </li>
 
+  <li>
+    <a href="https://github.com/Ntand42/JobTracker"><b>Job Tracker Application</b></a><br/>
+    A personal job management system with authentication, analytics dashboard, and application tracking features.
+  </li>
 
+  <li>
+    <a href="https://github.com/Ntand42/E-Hailing-Cloud-Web-Application"><b>E-Hailing Cloud Web App</b></a><br/>
+    A cloud-based ride-booking platform demonstrating real-time system design and user interaction.
+  </li>
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <li>
+    <a href="https://github.com/Ntand42/Food-Recipe-Application/blob/main/README.md"><b>Food Recipe Application</b></a><br/>
+    A recipe search and management app using API integration and filtering functionality.
+  </li>
+</ul>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>🎥 Project Demonstrations</h2>
+
+<p>Watch my applications in action:</p>
+
+<ul>
+  <li><a href="https://youtu.be/Lcv6Xp318lQ">Municipal Service Application</a></li>
+  <li><a href="https://youtu.be/5zgkMvHGytQ?si=okPVhYs6_urE59uS">Time Tracker Application</a></li>
+  <li><a href="https://youtu.be/aytdQZQEgMk">Agri-Energy Agriculture Web App (C#)</a></li>
+  <li><a href="https://youtu.be/4B2fD16EpJU">E-Hailing Cloud Web Application</a></li>
+</ul>
+
+---
+
+<h2>🛠️ Tech Stack</h2>
+
+<p>
+C# | ASP.NET Core | Entity Framework | SQL Server <br/>
+JavaScript | React | REST APIs | JWT Authentication <br/>
+Git | GitHub | Visual Studio | Android Studio
+</p>
+
+---
+
+<h2>📫 Contact Me</h2>
+
+<p>
+📧 Email: <b>ntandom2003@gmail.com</b><br/>
+🔗 <a href="https://www.linkedin.com/in/ntando-msweli-ba5018251/">LinkedIn</a>
+</p>
