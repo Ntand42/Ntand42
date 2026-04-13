@@ -41,7 +41,6 @@ I enjoy working across the full stack — from designing user-friendly interface
 <ul>
   <li><a href="https://youtu.be/Lcv6Xp318lQ">Municipal Service Application</a></li>
   <li><a href="https://youtu.be/5zgkMvHGytQ?si=okPVhYs6_urE59uS">Time Tracker Application</a></li>
-  <li><a href="https://youtu.be/aytdQZQEgMk">Agri-Energy Agriculture Web App (C#)</a></li>
   <li><a href="https://youtu.be/4B2fD16EpJU">E-Hailing Cloud Web Application</a></li>
 </ul>
 
